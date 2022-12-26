@@ -38,7 +38,5 @@ public class CWH_74_thread_priorities {
         t4.start();
         t5.start();
 
-
-
     }
 }
